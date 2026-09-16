@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Vanilla JS Task Manager (To-Do App)
 
 **Developer Note (September 2026):** 
@@ -30,3 +31,6 @@ The codebase was structured to mimic modern state-driven architecture without us
 
 ---
 *Built by [Jowel Das](https://joweldas.vercel.app/) - CMS & Web Developer.*
+=======
+# Vanilla-JS-Task-Manager-To-Do-App-
+>>>>>>> 4fe8431babcf8f2e0a39b33d92272d20cf86fc8b
